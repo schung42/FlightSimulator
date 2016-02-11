@@ -1,0 +1,35 @@
+Homework 2 Readme File
+
+Basic Information
+PLATFORM: OSX
+OS Version: OSX Yosemite 10.10.1
+Build Environment: Xcode
+Build Environment Version: Xcode 6.1.1
+Language: C++
+External Libraries Used (e.g., GLUT, GL, etc.): GLUT, GL, GLU, math.h, ctime, stdio, stdlib, iostream, fstream
+
+Build Instructions
+1. Unzip File
+2. Open Folder "MP2FlightSimulator"
+3. Open File "MP2FlightSimulatorFinal.xcodeproj"
+4. Make Sure "main.cpp" is the only Compile Source in "Build Phases"
+4. Run
+
+OR
+
+Simply run the Executable
+1. Unzip File
+2. Open Folder "MP2FlightSimulator"
+3. Open Folder "MP1FlightSimulatorFinal"
+4. Double Click Executable "MP2FlightSimulatorFinal"
+
+Controls
+‘w’ - Pitch Up
+‘a’ - Roll Left
+’s’ - Pitch Down
+‘d’ - Roll Right
+‘+’ - Raise Sea Level
+‘-‘ - Lower Sea Level
+
+Video Demo
+http://youtu.be/vo1guJG-BE4
